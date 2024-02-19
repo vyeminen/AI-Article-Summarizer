@@ -6,8 +6,8 @@ const Hero = () => {
     <header className='w-full flex justify-center items-center flex-col'>
     <nav className='flex justify-between items-center w-full mb-10 pt-6'>
     <img src = {logo} alt="sumz_logo" className='w-28 object-contain'/>
-
-    <button type = "button" className='black_btn'> 
+    {/* https://github.com/vyeminen/AI-Article-Summarizer/ */}
+    <button type = "button" className='black_btn' onClick={() => window.open("https://github.com/vyeminen/AI-Article-Summarizer/", "_blank")}> 
       GitHub
     </button>
 
