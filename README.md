@@ -1,3 +1,6 @@
+<img width="1308" alt="Ai summarizer" src="https://github.com/vyeminen/AI-Article-Summarizer/assets/108355241/fbabd747-35b5-4701-bf85-e0794fca96dd">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
